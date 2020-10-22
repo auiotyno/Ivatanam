@@ -62,6 +62,7 @@ saednews.com###header-banner-0
 saednews.com##.d-xl-block.d-none.text-center
 saednews.com###header-banner-1
 saednews.com##.mb-4 > .px-3
+saednews.com###post-top-section > .no-gutters.row > div.col-sm-3.col-6:nth-of-type(1)
 www.tgju.org###popup-layer-container
 www.zoomit.ir##.top-innerpage-banner
 www.zoomit.ir##.col-md-3.mrg15B.leftSidebar.dir-rtl.left-side > .theiaStickySidebar > div.clearfix.bannercontainer
