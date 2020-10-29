@@ -1,7 +1,7 @@
 www.aparat.com###filimoPromotion
 www.aparat.com###sabavisionIframeAds
 www.aparat.com###promotion
-www.aparat.com##.show.aparat-pause-ad
+www.aparat.com##.aparat-pause-ad
 www.aparat.com##.boost-ad
 www.afkarnews.com##.res-zxc.noprint.mt16.zxc.overview-auto
 www.afkarnews.com##.noprint.float.w33-5 > .pl12e > div.noprint.zxc.overview-auto:nth-of-type(2)
@@ -75,7 +75,7 @@ www.mehrnews.com###box97.ads.box
 www.shomanews.com##.desktop_only.mauto_div
 www.shomanews.com##.mnb_wrapper
 www.shomanews.com##.generalBoxStyle
-www.shomanews.com##.position_h7.noprint.mnb 
+www.shomanews.com##.mnb 
 par30games.net##.top-large-ads
 par30games.net##.fixedadv.post
 ||par30games.net/*.gif
@@ -85,6 +85,12 @@ www.khabaronline.ir###box303
 www.khabaronline.ir###box185
 www.khabaronline.ir###box181
 www.khabaronline.ir###box291
-||affiliate.digikala.com/PromotionBanners/*..gif
+||affiliate.digikala.com/PromotionBanners/*.gif
 www.khabaronline.ir###box277
 www.khabaronline.ir###box311 
+sansorha.ir##[src="about:blank"]
+www.aparat.com##.w-100.list-banner
+gadgetnews.net##.ad-cell
+gadgetnews.net##.animated1.fade-in.header-content
+www.shahrsakhtafzar.com##.advert
+www.beytoote.com##.count
