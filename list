@@ -35,9 +35,12 @@ www.asriran.com##.click1000_allcontent
 www.asriran.com##div.webgardi_main
 www.asriran.com##section.webgardi_main
 www.beytoote.com##.count
+www.beytoote.com##.countclick
 www.borna.news##.home_second_clm > div.zxc_home:nth-of-type(2)
 www.borna.news##div.noprint.zxc_news:nth-of-type(1)
 www.borna.news##div.noprint.zxc_news:nth-of-type(6)
+www.eghtesadonline.com##.desktop-banner
+www.eghtesadonline.com##.talfighat-BS
 www.khabaronline.ir###box181
 www.khabaronline.ir###box185
 www.khabaronline.ir###box193
@@ -45,14 +48,15 @@ www.khabaronline.ir###box277
 www.khabaronline.ir###box291
 www.khabaronline.ir###box303
 www.khabaronline.ir###box311
+www.mashreghnews.ir##.hidden-xs.clean
 www.mehrnews.com###ads-container
 www.mehrnews.com##.ads
 www.namasha.com###video-player.jw-flag-user-inactive.jw-flag-ads
 www.namasha.com##.m-auto.d-lg-inline-block.d-none > .utop-img
 www.ninisite.com###forum-native-ad
 www.ninisite.com##.four-in-column
-www.ninisite.com##.up-ad
 www.ninisite.com##.two-in-column
+www.ninisite.com##.up-ad
 www.ninisite.com##div.text-xs-center.one-in-row
 www.rokna.net##.adv-cnt
 www.rokna.net##.zxc-padding-custom.white.default-bg.margin-bottom-16.container
@@ -79,26 +83,7 @@ www.zoomit.ir##.wide-adv-box
 www.zoomit.ir##div.hidden-xs.hidden-sm > .clearfix.bannercontainer
 ||ad.utop.ir/b/*
 ||affiliate.digikala.com/PromotionBanners/*.gif
+||cdn.tabnak.ir/files/adv/*
 ||media.khabaronline.ir/*.gif
 ||par30games.net/*.gif
 ||storage.beytoote.com/images/adsbeytoote/*
-www.beytoote.com##.countclick
-www.beytoote.com##.countclick
-
-www.mashreghnews.ir##.hidden-xs.clean
-
-www.mehrnews.com##.ads
-||cdn.tabnak.ir/files/adv/*
-www.eghtesadonline.com##.talfighat-BS
-www.eghtesadonline.com##.desktop-banner  
-www.beytoote.com##.countclick
-
-www.mashreghnews.ir##.hidden-xs.clean
-
-www.mehrnews.com##.ads
-||cdn.tabnak.ir/files/adv/*
-
-www.eghtesadonline.com##.talfighat-BS
-www.eghtesadonline.com##.desktop-banner
-
-www.sheypoor.com###marketing-banner 
